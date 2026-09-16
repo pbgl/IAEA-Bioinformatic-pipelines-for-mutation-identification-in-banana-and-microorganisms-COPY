@@ -36,16 +36,16 @@ The complete tutorial and detailed interpretation of results are available in th
 ### Long-read sequencing
 
 - [PacBio NanoPlot report](https://pbgl.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/PacBio-NanoPlot-report.html)
-- [ONT NanoPlot report](https://merivames.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/ONT_data_NanoPlot-report.html)
+- [ONT NanoPlot report](https://pbgl.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/ONT_data_NanoPlot-report.html)
 
 ### Short-read sequencing
 
-- [S30GY read 1 FastQC report](https://merivames.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/S30GY_01_1_fastqc.html)
-- [S30GY read 2 FastQC report](https://merivames.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/S30GY_01_2_fastqc.html)
-- [SRR11579628 read 1 FastQC report](https://merivames.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/SRR11579628_1_fastqc.html)
-- [SRR11579628 read 2 FastQC report](https://merivames.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/SRR11579628_2_fastqc.html)
-- [SRR11579628 FastP report](https://merivames.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/SRR11579628_fastp_report.html)
-- [Additional FastP report](https://merivames.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/fastp.html)
+- [S30GY read 1 FastQC report](https://pbgl.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/S30GY_01_1_fastqc.html)
+- [S30GY read 2 FastQC report](https://pbgl.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/S30GY_01_2_fastqc.html)
+- [SRR11579628 read 1 FastQC report](https://pbgl.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/SRR11579628_1_fastqc.html)
+- [SRR11579628 read 2 FastQC report](https://pbgl.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/SRR11579628_2_fastqc.html)
+- [SRR11579628 FastP report](https://pbgl.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/SRR11579628_fastp_report.html)
+- [Additional FastP report](https://pbgl.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/fastp.html)
 
 
 ## Acknowledgements
