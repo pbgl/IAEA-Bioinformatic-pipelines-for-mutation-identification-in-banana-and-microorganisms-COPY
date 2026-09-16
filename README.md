@@ -35,7 +35,7 @@ The complete tutorial and detailed interpretation of results are available in th
 
 ### Long-read sequencing
 
-- [PacBio NanoPlot report](https://merivames.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/PacBio-NanoPlot-report.html)
+- [PacBio NanoPlot report](https://pbgl.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/PacBio-NanoPlot-report.html)
 - [ONT NanoPlot report](https://merivames.github.io/IAEA-Bioinformatic-pipelines-for-mutation-identification-in-banana-and-microorganisms-COPY/reports/ONT_data_NanoPlot-report.html)
 
 ### Short-read sequencing
